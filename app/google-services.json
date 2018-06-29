@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "498444825637",
+    "firebase_url": "https://artist-bb77e.firebaseio.com",
+    "project_id": "artist-bb77e",
+    "storage_bucket": "artist-bb77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498444825637:android:699d042f3c9b975f",
+        "android_client_info": {
+          "package_name": "com.Karim.Art"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498444825637-0duuq1r4c216jvg7ap5d3m67j6e5hvoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "498444825637-0duuq1r4c216jvg7ap5d3m67j6e5hvoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6HpHIaZNBxw0CLoBYISMKUH5iKA6U7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
