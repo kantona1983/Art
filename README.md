@@ -1,4 +1,4 @@
-# Artisto
+# Art
 
 ![Logo](../master/art/ic_launcher.png)
 
