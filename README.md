@@ -34,7 +34,7 @@ You must provide your own API key in order to build the app. When you get it, ju
 
 ## Widget
 
-![screen](../master/art/artisto-widget.png)
+![screen](https://github.com/kantona1983/Art/blob/master/art/art-widget.png)
 
 
 ## Libraries
