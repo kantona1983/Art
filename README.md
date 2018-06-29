@@ -26,11 +26,11 @@ You must provide your own API key in order to build the app. When you get it, ju
 
 ## Screens
 
-![screen](../master/art/artisto-screen1.png)
+![screen](https://github.com/kantona1983/Art/blob/master/art/art-screen1.png)
 
-![screen](../master/art/artisto-screen2.png)
+![screen](https://github.com/kantona1983/Art/blob/master/art/art-screen2.png)
 
-![screen](../master/art/artisto-screen3.png)
+![screen](https://github.com/kantona1983/Art/blob/master/art/art-screen3.png)
 
 ## Widget
 
